@@ -6,7 +6,7 @@
 
 ${\textsf{\color{#FFCCC0}Welcome to shiptown!}}$  
 ${\textsf{\color{#FCE4D9}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
-${\textsf{\color{#F9FBF2}Nominations will be added on Mondays/Fridays!}}$  
+${\textsf{\color{#F9FBF2}Nominations will be added on Mondays/Fridays every 1-2 weeks!}}$  
 ${\textsf{\color{#D7F9FF}Ask questions about shiptown on the atabook!}}$  :3  
 
 <a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
