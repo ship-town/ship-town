@@ -1,11 +1,15 @@
 <div align="center">
 
+![link](https://media.discordapp.net/attachments/1448557270937108605/1534738964014043196/Tumblr_l_46199465152261.gif?ex=6a75388b&is=6a73e70b&hm=60df98065bcbb48885c1082137723e73b7a3c9ebd36fd6e6b9d657c04efc00d6&=)   
+
+<img width="88" height="31" alt="button-88x31 (3)" src="https://github.com/user-attachments/assets/2c01cf03-9015-4e3e-b40d-46064be28a7f" />
+
 ${\textsf{\color{#FFCCC0}Welcome to shiptown!}}$  
 ${\textsf{\color{#FCE4D9}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
 ${\textsf{\color{#F9FBF2}Nominations will be added on Mondays/Fridays!}}$  
 ${\textsf{\color{#D7F9FF}Ask questions about shiptown on the atabook!}}$  :3  
 
-<a href="https://shiptown.straw.page">NOMINATEHERE!</a>
+<a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
 
 <div align="center">
   
