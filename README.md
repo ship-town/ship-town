@@ -2,7 +2,7 @@
 
 ${\textsf{\color{#FFCCC0}Welcome to shiptown!}}$  
 ${\textsf{\color{#FCE4D9}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
-${\textsf{\color{#F9FBF2}Nominate yourself or someone you know!}}$  
+${\textsf{\color{#F9FBF2}Nominations will be added on Mondays/Fridays!}}$  
 ${\textsf{\color{#D7F9FF}Information on nominations below!!}}$  
 
 <a href="https://shiptown.straw.page">NOMINATEHERE!</a>
