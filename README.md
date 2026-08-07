@@ -16,9 +16,9 @@ ${\textsf{\color{#D7F9FF}Ask questions about shiptown on the atabook!}}$  :3
 ${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#AFCBFF}You can nominate yourself!}}$   
 ${\textsf{\color{#87A0CD}✦.}}$  ${\textsf{\color{#D7F9FF}You can nominate others!}}$   
 ${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#F9FBF2}Multiple people can be nominated for the same ship!}}$    
-${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#F9FBF2}You can be nominated for up to 2 ships btw!!}}$   
-${\textsf{\color{#87A0CD}✦.}}$  ${\textsf{\color{#FCE4D9}I do take suggestions and recommendations!}}$    
-${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#FFCCC0}If you want your ship to be changed/renamed re-nominate yourself!}}$   
+${\textsf{\color{#87A0CD}✦.}}$  ${\textsf{\color{#F9FBF2}You can be nominated for up to 2 ships btw!!}}$   
+${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#FCE4D9}I do take suggestions and recommendations!}}$    
+${\textsf{\color{#87A0CD}✦.}}$  ${\textsf{\color{#FFCCC0}If you want your ship to be changed/renamed re-nominate yourself!}}$   
 
 ![link](https://media.discordapp.net/attachments/1448557270937108605/1534738963682562048/Tumblr_l_46169392450360.gif?ex=6a75388b&is=6a73e70b&hm=951a0d365bb357edfe9df9fdeb39a985163ed4d1f78b4c03c7c089ea9e1ce9c8&=)
 
