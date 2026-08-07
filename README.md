@@ -31,7 +31,7 @@ ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/computerfanati
 ${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/itrap-2245">@itrap-2245</a> ${\\textsf{\\color{#F9FBF2}Num.1 Frozendebt shipper!}}$
 
 
-${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/P0LAR0ID">@P0LAR0ID</a> ${\\textsf{\\color{#F9FBF2}Num.1 Inscryption shipper!}}$
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/Cryptidist">@Cryptidist</a> ${\\textsf{\\color{#F9FBF2}Num.1 P0LAR0ID shipper!}}$
 
 
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/NolmNotAHuman">@NolmNotAHuman</a> ${\\textsf{\\color{#F9FBF2}Num.1 Zleeplezzgambler shipper!}}$
