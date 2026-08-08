@@ -8,10 +8,11 @@ ${\textsf{\color{#FFCCC0}Welcome to shiptown!}}$
 ${\textsf{\color{#FCE4D9}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
 ${\textsf{\color{#F9FBF2}Nominations will be added on fridays every 1-2 weeks!}}$  
 ${\textsf{\color{#D7F9FF}This is mostly ran by me, Hollow. It takes a bit 2 add every1 so pls b understanding!}}$  :3  
+${\textsf{\color{#AFCBFF}Update msg v.01 : Nomination weeks will be categorized by seasons, You have until thursday 10:00pm 2 have ur nominations in!}}$ 
 
 <a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
 
-<div align="center">
+<div align="center">  
   
 ${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#AFCBFF}You can nominate yourself!}}$   
 ${\textsf{\color{#87A0CD}✦.}}$  ${\textsf{\color{#D7F9FF}You can nominate others!}}$   
@@ -21,6 +22,8 @@ ${\textsf{\color{#FFCCC0}✦.}}$  ${\textsf{\color{#FCE4D9}I do take suggestions
 ${\textsf{\color{#87A0CD}✦.}}$  ${\textsf{\color{#FFCCC0}If you want your ship to be changed/renamed re-nominate yourself!}}$   
 
 ![link](https://media.discordapp.net/attachments/1448557270937108605/1534738963682562048/Tumblr_l_46169392450360.gif?ex=6a75388b&is=6a73e70b&hm=951a0d365bb357edfe9df9fdeb39a985163ed4d1f78b4c03c7c089ea9e1ce9c8&=)
+
+${\textsf{\color{#F9FBF2}SEASON ONE NOMINATIONS!!}}$ 
 
 ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/lovingl3tters">@lovingl3tters</a> ${\\textsf{\\color{#F9FBF2}Num.1 Fedorashades + polymafia shipper!}}$
 
