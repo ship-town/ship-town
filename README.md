@@ -114,3 +114,76 @@ ${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/flairforthedra
 
 
 ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/1PWNn00bz">@1PWNn00bz</a> ${\\textsf{\\color{#F9FBF2}Num.1 Infected yumeshipper!}}$
+
+SEASON 2 NOMINATIONS BELOW!!!1
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/BIGGUYKOI">@BIGGUYKOI</a> ${\\textsf{\\color{#F9FBF2}Num.1 Stony shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/maokpinaok">@maokpinaok</a> ${\\textsf{\\color{#F9FBF2}Num.1 Jonawagon shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/dol9hinn">@dol9hinn</a> ${\\textsf{\\color{#F9FBF2}Num.1 Sosodolph shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/disorderlyfashion">@disorderlyfashion</a> ${\\textsf{\\color{#F9FBF2}Num.1 Rasey AND Pizzadebt shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/Cpn-cook">@Cpn-cook</a> ${\\textsf{\\color{#F9FBF2}Num.1 Quillki shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/FinnFxnn">@FinnFxnn</a> ${\\textsf{\\color{#F9FBF2}Num.1 Inkbowl shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/Lynxcified">@Lynxcified</a> ${\\textsf{\\color{#F9FBF2}Num.1 Beachcomber yumeshipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/fuwafuransu">@fuwafuransu</a> ${\\textsf{\\color{#F9FBF2}Num.1 Romacan shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/pyroprincess">@pyroprincess</a> ${\\textsf{\\color{#F9FBF2}Num.1 Pharaohsnake fan!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/NERDPROJECT">@NERDPROJECT</a> ${\\textsf{\\color{#F9FBF2}Num.1 Soldierbomb AND Soldierbutcher shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/sir-chloe">@sir-chloe</a> ${\\textsf{\\color{#F9FBF2}Num.1 moonberrycakeballoon shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/Xaplastcore">@Xaplastcore</a> ${\\textsf{\\color{#F9FBF2}Num.1 Optimus prime yumeshipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/mlndless">@mlndless</a> ${\\textsf{\\color{#F9FBF2}Num.1 Reflectivedetective shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="snowyferns">@snowyferns</a> ${\\textsf{\\color{#F9FBF2}Num.1 Samecho fan!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/wolfcutiee">@wolfcutiee</a> ${\\textsf{\\color{#F9FBF2}Num.1 Jessiepants fan!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/07flip">@07flip</a> ${\\textsf{\\color{#F9FBF2}Num.1 luckyhacker shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/piehiker">@piehiker</a> ${\\textsf{\\color{#F9FBF2}Num.1 zegect shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/TheHacker7n7">@TheHacker7n7</a> ${\\textsf{\\color{#F9FBF2}Num.1 Verity x ThatMob shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/sillyspaghetti8-arch">@sillyspaghetti8-arch</a> ${\\textsf{\\color{#F9FBF2}Num.1 Scyker shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/12r0ds">@12r0ds</a> ${\\textsf{\\color{#F9FBF2}Num.1 Medhammer shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/sea-shantyyy">@sea-shantyyy</a> & <a href="https://github.com/ACE0FHEART5">@ACE0FHEART5</a> ${\\textsf{\\color{#F9FBF2}Num.1 Luckyadmin shippers!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/REGULARITYY">@REGULARITYY</a> ${\\textsf{\\color{#F9FBF2}Num.1 Bakerbat shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/electrifypink">@electrifypink</a> ${\\textsf{\\color{#F9FBF2}Num.1 tixbling shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/silly-dotcom">@silly-dotcom</a> ${\\textsf{\\color{#F9FBF2}Num.1 yaoiduo shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/T0R4X">@T0R4X</a> ${\\textsf{\\color{#F9FBF2}Num.1 Heavymedic AND MediSpy enjoyer!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/kaban0z">@kaban0z</a> ${\\textsf{\\color{#F9FBF2}Num.1 Paycheck shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/Navistel">@Navistel</a> ${\\textsf{\\color{#F9FBF2}Num.1 Dancae shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/THEFA1THFUL">@THEFA1THFUL</a> ${\\textsf{\\color{#F9FBF2}Num.1 Chiluc AND Sydlar shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/kiwiconicc">@kiwiconicc</a> ${\\textsf{\\color{#F9FBF2}Num.1 Ekuserirei enjoyer!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/Pixel8tedfaygo">@Pixel8tedfaygo</a> ${\\textsf{\\color{#F9FBF2}Num.1 Erigam shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/undyingregret">@undyingregret</a> ${\\textsf{\\color{#F9FBF2}Num.1 Partybeetle AND Azuretime shipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/princezammiest">@princezammiest</a> ${\\textsf{\\color{#F9FBF2}Num.1 Francetrio AND Doctorcaptain shipper!}}$
+
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/OlgaSinxer">@OlgaSinxer</a> ${\\textsf{\\color{#F9FBF2}Num.1  Artificalinterlligence shipper!}}$
+
+${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/VERGILSSBEING">@VERGILSSBEING</a> ${\\textsf{\\color{#F9FBF2}Num.1 Vergil yumeshipper!}}$
+
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/killwaree">@killwaree</a> ${\\textsf{\\color{#F9FBF2}Num.1 Killware shipper!}}$
+
