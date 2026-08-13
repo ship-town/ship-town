@@ -115,7 +115,7 @@ ${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/flairforthedra
 
 ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/1PWNn00bz">@1PWNn00bz</a> ${\\textsf{\\color{#F9FBF2}Num.1 Infected yumeshipper!}}$
 
-SEASON 2 NOMINATIONS BELOW!!!1
+${\textsf{\color{#F9FBF2}SEASON 2 NOMINATIONS BELOW!!!1}}$
 
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/BIGGUYKOI">@BIGGUYKOI</a> ${\\textsf{\\color{#F9FBF2}Num.1 Stony shipper!}}$
 
