@@ -10,7 +10,7 @@ ${\textsf{\color{#F9FBF2}Nominations will be added on fridays every 1-2 weeks!}}
 ${\textsf{\color{#D7F9FF}This is mostly ran by me, Hollow. It takes a bit 2 add every1 so pls b understanding!}}$  :3  
 ${\textsf{\color{#AFCBFF}Update msg v.03 SEASON 2 NOMINATIONS ARE OUT!! THANK U ALL FOR NOMINATIN1!!11}}$ 
 
-<a href="https://closednominationsuuuyay.straw.page">NOMINATEHERE!</a>  
+<a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
 
 <div align="center">  
   
