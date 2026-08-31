@@ -6,9 +6,9 @@
 
 ${\textsf{\color{#FFCCC0}Welcome to shiptown!}}$  
 ${\textsf{\color{#FCE4D9}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
-${\textsf{\color{#F9FBF2}Nominations NORMALLY will be added on fridays every 1-2 weeks! subject to change!!}}$  
+${\textsf{\color{#F9FBF2}Nominations NORMALLY will be added on thursdays to fridays every 2-4 weeks! subject to change!!}}$  
 ${\textsf{\color{#D7F9FF}This is mostly ran by me, Hollow. It takes a bit 2 add every1 so pls b understanding!}}$  :3  
-${\textsf{\color{#AFCBFF}Update msg v.04 Due to me moving nominations for season 3 will not be added until the end of august SORRY for the inconvience}}$ 
+${\textsf{\color{#AFCBFF}Update msg v.05 season 3 nominations should be finalized on sep 4th if a delay happens expect nominations to be out by sep 10th.}}$ 
 
 <a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
 
