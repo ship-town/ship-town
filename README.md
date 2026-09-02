@@ -49,7 +49,7 @@ ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/my-many-eyes">
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/FLORAISONS">@FLORAISONS</a> ${\\textsf{\\color{#F9FBF2}Num.1 Duseshed shipper!}}$
 
 
-${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/ghastlyknight">@ghastlyknight</a> ${\\textsf{\\color{#F9FBF2}Num.1 Defensemechanism and Deliveryant shipper!}}$
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/ghastlyknight">@ghastlyknight</a> ${\\textsf{\\color{#F9FBF2}Num.1 Defensemechanism and piratepencil shipper!}}$
 
 
 ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/xxjardxgalf-yaoi69xx">@xxjardxgalf-yaoi69xx</a> ${\\textsf{\\color{#F9FBF2}Num.1 Smokecola / Jalf shipper!}}$
