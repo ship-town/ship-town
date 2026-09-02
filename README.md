@@ -61,7 +61,7 @@ ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/DANZNC">@DANZN
 ${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/zackingaround">@zackingaround</a> <a href="https://github.com/gamblersi">@gamblersi</a> ${\\textsf{\\color{#F9FBF2}Num.1 Doublefedora FANS!}}$
 
 
-${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/MUSE-ical">@MUSE-ical</a> ${\\textsf{\\color{#F9FBF2}Num.1 Emunene and Suntan shipper!}}$
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/amseiii">@amseiii</a> ${\\textsf{\\color{#F9FBF2}Num.1 Koloexe and Blazamy shipper!}}$
 
 
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/HEDGYMAJIN">@HEDGYMAJIN</a> & <a href="https://github.com/LordXtism">@FATSTISM</a> ${\\textsf{\\color{#F9FBF2}Num.1 Endlesscycles shippers!}}$
