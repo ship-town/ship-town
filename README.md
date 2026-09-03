@@ -8,7 +8,7 @@ ${\textsf{\color{#FFCCC0}Welcome to shiptown!}}$
 ${\textsf{\color{#FCE4D9}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
 ${\textsf{\color{#F9FBF2}Nominations NORMALLY will be added on thursdays to fridays every 2-4 weeks! subject to change!!}}$  
 ${\textsf{\color{#D7F9FF}This is mostly ran by me, Hollow. It takes a bit 2 add every1 so pls b understanding!}}$  :3  
-${\textsf{\color{#AFCBFF}Update msg v.05 season 3 nominations should be finalized on sep 4th if a delay happens expect nominations to be out by sep 10th.}}$ 
+${\textsf{\color{#AFCBFF}Update msg v.06 SEASON 3 IS NOW OUT!!1 as well as a few changes have been made to the github, strawpage and atabook!}}$ 
 
 <a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
 
@@ -143,7 +143,7 @@ ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/Xaplastcore">@
 
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/mlndless">@mlndless</a> ${\\textsf{\\color{#F9FBF2}Num.1 Reflectivedetective shipper!}}$
 
-${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="snowyferns">@snowyferns</a> ${\\textsf{\\color{#F9FBF2}Num.1 Samecho fan!}}$
+${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="necbr0mancer">@necbr0mancer</a> ${\\textsf{\\color{#F9FBF2}Num.1 Samecho fan!}}$
 
 ${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/wolfcutiee">@wolfcutiee</a> ${\\textsf{\\color{#F9FBF2}Num.1 Jessiepants fan!}}$
 
@@ -199,7 +199,7 @@ ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/nitrypawliton"
 
 ${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/Medispy">@MediSpy</a> ${\\textsf{\\color{#F9FBF2}Num.1 Gentlesurgery enjoyer!}}$
 
-${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/karlgvuts">@karlgvuts</a> ${\\textsf{\\color{#F9FBF2}Num.1 Wikilius yumeshipper!}}$
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/wikiliusdarling">@wikiliusdarling</a> ${\\textsf{\\color{#F9FBF2}Num.1 Wikilius yumeshipper!}}$
 
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/Catshots">@Catshots</a> ${\\textsf{\\color{#F9FBF2}Num.1 Monstermagic AND Swordshot shipper!}}$
 
@@ -223,7 +223,7 @@ ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="https://github.com/undeadlost">@u
 
 ${\\textsf{\\color{#b9ffbd}୨୧.}}$ <a href="https://github.com/zyvism">@zyvism</a> ${\\textsf{\\color{#F9FBF2}Num.1 Lovepad AND Azuretime shipper! }}$
 
-${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/cchrisker">@cchrisker</a> & <a href="https://github.com/MoriouChoRadio">@MoriouChoRadio</a> ${\\textsf{\\color{#F9FBF2}Cutest couple on pt!}}$
+${\\textsf{\\color{#ffc5da}୨୧.}}$ <a href="https://github.com/cchrisker">@cchrisker</a> & <a href="https://github.com/futamono">@futamono</a> ${\\textsf{\\color{#F9FBF2}Cutest couple on pt!}}$
 
 ${\\textsf{\\color{#fbff8b}୨୧.}}$ <a href="http://github.com/honourxble">@honourxble</a> ${\\textsf{\\color{#F9FBF2}Num.1 Vinestaff AND Subspace shipper!}}$
 
