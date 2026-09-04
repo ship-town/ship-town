@@ -151,8 +151,6 @@ ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/07flip">@07fli
 
 ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/piehiker">@piehiker</a> ${\\textsf{\\color{#F9FBF2}Num.1 zegect shipper!}}$
 
-${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/TheHacker7n7">@TheHacker7n7</a> ${\\textsf{\\color{#F9FBF2}Num.1 Verity x ThatMob shipper!}}$
-
 ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/sillyspaghetti8-arch">@sillyspaghetti8-arch</a> ${\\textsf{\\color{#F9FBF2}Num.1 Scyker shipper!}}$
 
 ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/12r0ds">@12r0ds</a> ${\\textsf{\\color{#F9FBF2}Num.1 Medhammer shipper!}}$
@@ -229,7 +227,7 @@ ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="http://github.com/honourxble">@ho
 
 ${\textsf{\color{#F9FBF2}SEASON THREE NOMINATIONS!}}$
 
-${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/HachiHachiware ">@HachiHachiware </a> & <a href="https://github.com/ScaryMonstersRawr">@ScaryMonstersRawr</a> ${\\textsf{\\color{#F9FBF2}Awesome couple on pt!}$
+${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/HachiHachiware ">@HachiHachiware </a> & <a href="https://github.com/ScaryMonstersRawr">@ScaryMonstersRawr</a> ${\\textsf{\\color{#F9FBF2}Awesome couple on pt!}}$
 
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/yurist1c">@yurist1c</a> & <a href="https://github.com/SHIZCUPCK3T">@SHIZCUPCK3T</a> ${\\textsf{\\color{#F9FBF2}Num.1 Doublenurse shippers!}}$
 
