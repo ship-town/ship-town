@@ -143,7 +143,7 @@ ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/Xaplastcore">@
 
 ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/mlndless">@mlndless</a> ${\\textsf{\\color{#F9FBF2}Num.1 Reflectivedetective shipper!}}$
 
-${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="necbr0mancer">@necbr0mancer</a> ${\\textsf{\\color{#F9FBF2}Num.1 Samecho fan!}}$
+${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/necbr0mancer">@necbr0mancer</a> ${\\textsf{\\color{#F9FBF2}Num.1 Samecho fan!}}$
 
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/wolfcutiee">@wolfcutiee</a> ${\\textsf{\\color{#F9FBF2}Num.1 Jessiepants fan!}}$
 
@@ -170,8 +170,6 @@ ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/kaban0z">@kaba
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/Navistel">@Navistel</a> ${\\textsf{\\color{#F9FBF2}Num.1 Dancae shipper!}}$
 
 ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/THEFA1THFUL">@THEFA1THFUL</a> ${\\textsf{\\color{#F9FBF2}Num.1 Chiluc AND Sydlar shipper!}}$
-
-${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/kiwiconicc">@kiwiconicc</a> ${\\textsf{\\color{#F9FBF2}Num.1 Ekuserirei enjoyer!}}$
 
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/Pixel8tedfaygo">@Pixel8tedfaygo</a> ${\\textsf{\\color{#F9FBF2}Num.1 Erigam shipper!}}$
 
