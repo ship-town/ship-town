@@ -1,10 +1,8 @@
 <div align="center">
-
-![link](https://media.discordapp.net/attachments/1448557270937108605/1534738964014043196/Tumblr_l_46199465152261.gif?ex=6a75388b&is=6a73e70b&hm=60df98065bcbb48885c1082137723e73b7a3c9ebd36fd6e6b9d657c04efc00d6&=)   
-
+  
 <img width="88" height="31" alt="button-88x31 (3)" src="https://github.com/user-attachments/assets/2c01cf03-9015-4e3e-b40d-46064be28a7f" />
 
-${\textsf{\color{#0f83a5}Welcome to shiptown!}}$  
+${\textsf{\color{#d0f5f6}Welcome to shiptown!}}$  
 ${\textsf{\color{#f8fdfe}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
 ${\textsf{\color{#0f83a5}Nominations are added fridays every 3-4 weeks!!1}}$  
 ${\textsf{\color{#f8fdfe}This is mostly ran by me, Hollow. It takes a bit 2 add every1 so pls b understanding!}}$  :3  
@@ -21,7 +19,7 @@ ${\textsf{\color{#f8fdfe}❆.}}$  ${\textsf{\color{#0e82a5}You can be nominated 
 ${\textsf{\color{#d0f5f6}❆.}}$  ${\textsf{\color{#92c8c9}I do take suggestions and recommendations!}}$    
 ${\textsf{\color{#f8fdfe}❆.}}$  ${\textsf{\color{#0e82a5}Head over to the strawpage for info on nominating!}}$   
 
-![link](https://media.discordapp.net/attachments/1448557270937108605/1534738963682562048/Tumblr_l_46169392450360.gif?ex=6a75388b&is=6a73e70b&hm=951a0d365bb357edfe9df9fdeb39a985163ed4d1f78b4c03c7c089ea9e1ce9c8&=)
+![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj) ![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj)
 
 ${\textsf{\color{#F9FBF2}SEASON ONE NOMINATIONS!!}}$ 
 
@@ -114,6 +112,8 @@ ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/flairforthedra
 
 
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/1PWNn00bz">@1PWNn00bz</a> ${\\textsf{\\color{#F9FBF2}Num.1 Infected yumeshipper!}}$
+
+![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj)
 
 ${\textsf{\color{#F9FBF2}SEASON 2 NOMINATIONS BELOW!!!1}}$
 
@@ -224,6 +224,8 @@ ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/zyvism">@zyvis
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/cchrisker">@cchrisker</a> & <a href="https://github.com/futamono">@futamono</a> ${\\textsf{\\color{#F9FBF2}Cutest couple on pt!}}$
 
 ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="http://github.com/honourxble">@honourxble</a> ${\\textsf{\\color{#F9FBF2}Num.1 Vinestaff AND Subspace shipper!}}$
+
+![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj)
 
 ${\textsf{\color{#F9FBF2}SEASON THREE NOMINATIONS!}}$
 
