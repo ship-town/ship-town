@@ -187,8 +187,6 @@ ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/killwaree">@ki
 
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/CuteAngeliee">@CuteAngeliee</a> ${\\textsf{\\color{#F9FBF2}Num.1 Rookie yumeshipper!}}$
 
-${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/evbomc">@evbomc</a> ${\\textsf{\\color{#F9FBF2}Num.1 Frox shipper!}}$
-
 ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/PUNK-REBEL">@PUNK-REBEL</a> & <a href="https://github.com/hottopic-shad">@hottopic-shad</a> ${\\textsf{\\color{#F9FBF2}Num.1 Silvamy shippers!}}$
 
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/PUNK-REBEL">@PUNK-REBEL</a> ${\\textsf{\\color{#F9FBF2}Num.1 Scousurge shipper!}}$
