@@ -84,7 +84,7 @@ ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/zv6k">@zv6k</a
 ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/johtrio">@johtrio</a> ${\\textsf{\\color{#F9FBF2}Num.1 Preciousmetal shipper!}}$
 
 
-${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/skuix">@skuix</a> & <a href="https://github.com/mewmajestic">@mewmajestic</a> ${\\textsf{\\color{#F9FBF2}Num.1 ALNST Mizisua shippers!}}$
+${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/Sua2Mizi">@Sua2Mizi</a> & <a href="https://github.com/mewmajestic">@mewmajestic</a> ${\\textsf{\\color{#F9FBF2}Num.1 ALNST Mizisua shippers!}}$
 
 
 ${\\textsf{\\color{#fbff8b}☃︎.}}$ <a href="https://github.com/twottimey">@twottimey</a> ${\\textsf{\\color{#F9FBF2}Num.1 Azuretime shipper!}}$
