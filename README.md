@@ -96,9 +96,6 @@ ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/Nullified-Conc
 ${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/Chemicalshot">@Chemicalshot</a> & <a href="https://github.com/monoxiides">@monoxiides</a> ${\\textsf{\\color{#F9FBF2}Num.1 ZOMBST Mizisua shippers!}}$
 
 
-${\\textsf{\\color{#ffc5da}☃︎.}}$ <a href="https://github.com/cfluixon">@cfluixon</a> ${\\textsf{\\color{#F9FBF2}Num.1 Fluxarata shipper!}}$
-
-
 ${\\textsf{\\color{#b9ffbd}☃︎.}}$ <a href="https://github.com/CherrieJam">@CherrieJam</a> ${\\textsf{\\color{#F9FBF2}Num.1 Starblade shipper!}}$
 
 
