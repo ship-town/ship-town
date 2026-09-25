@@ -4,8 +4,6 @@
 
 ${\textsf{\color{#d0f5f6}THIS IS CANCELLED SORRY GUYSSSS1!!}}$
 
-<a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
-
 <div align="center">  
 
 ![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj) ![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj)
