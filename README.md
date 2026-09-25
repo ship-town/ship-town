@@ -2,22 +2,11 @@
   
 <img width="88" height="31" alt="button-88x31 (3)" src="https://github.com/user-attachments/assets/2c01cf03-9015-4e3e-b40d-46064be28a7f" />
 
-${\textsf{\color{#d0f5f6}Welcome to shiptown!}}$  
-${\textsf{\color{#f8fdfe}This is basically just a fun way of showing off your favorite ships}}$ ^_^!!  
-${\textsf{\color{#0f83a5}Nominations are added fridays every 3-4 weeks!!1}}$  
-${\textsf{\color{#f8fdfe}This is mostly ran by me, Hollow. It takes a bit 2 add every1 so pls b understanding!}}$  :3  
-${\textsf{\color{#0f83a5}Update msg v.06 SEASON 3 IS NOW OUT!!1 as well as a few changes have been made to the github, strawpage and atabook!}}$ 
+${\textsf{\color{#d0f5f6}THIS IS CANCELLED SORRY GUYSSSS1!!}}$
 
 <a href="https://shiptown.straw.page">NOMINATEHERE!</a>  
 
 <div align="center">  
-  
-${\textsf{\color{#d0f5f6}❆.}}$  ${\textsf{\color{#92c8c9}You can nominate yourself!}}$   
-${\textsf{\color{#f8fdfe}❆.}}$  ${\textsf{\color{#0e82a5}You can nominate others!}}$   
-${\textsf{\color{#d0f5f6}❆.}}$  ${\textsf{\color{#92c8c9}Multiple people can be nominated for the same ship!}}$    
-${\textsf{\color{#f8fdfe}❆.}}$  ${\textsf{\color{#0e82a5}You can be nominated for up to 2 ships btw!!}}$   
-${\textsf{\color{#d0f5f6}❆.}}$  ${\textsf{\color{#92c8c9}I do take suggestions and recommendations!}}$    
-${\textsf{\color{#f8fdfe}❆.}}$  ${\textsf{\color{#0e82a5}Head over to the strawpage for info on nominating!}}$   
 
 ![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj) ![link](https://64.media.tumblr.com/9cb620f9b5270b2b0f5f39de859f9fac/65dc23c457c37dd0-8d/s400x600/6796bd881167a8783e4d8df85ffbb6f363526ee8.pnj)
 
